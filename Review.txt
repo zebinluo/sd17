@@ -1,0 +1,8 @@
+Request Investigation and analyses is very important in software development.
+
+It make us to understand the development task and destination.
+
+Prototype design can help us to realize the development detail and clarify the requirement.
+furthermore it help the client and development team to comunicate more efficiency
+
+the more detail of requirement, the more task completed. 
